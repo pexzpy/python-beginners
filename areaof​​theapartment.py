@@ -7,7 +7,7 @@ r = int(input("Please enter the radius of the circle :: "))
 
 
 #find its area
-area = pi*yaricap*r
+area = pi*r*r #equal with area = pi*(r**2)
 
 
 #print(output)
